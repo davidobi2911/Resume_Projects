@@ -1,4 +1,4 @@
-# Resume_Projects
+# Text adventure
 To run the program, run "python3 final.py"
 
 
