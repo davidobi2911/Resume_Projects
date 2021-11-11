@@ -1,0 +1,36 @@
+open door
+look at shelf
+pick bottle
+load
+save
+stats
+loot at table
+go south
+pick documents
+go west
+load
+stats
+loot at table
+go south
+pick documents
+go west
+go north
+look at shelf
+pick sword
+pick sling shot
+go south
+go south
+pick slingshot
+stats
+stab lion
+pick key
+escape
+go north
+move left
+go north
+open gate
+rescue love
+go south
+move right
+go east
+escape
